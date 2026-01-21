@@ -1,22 +1,33 @@
-## Hi there 👋
+# Merhaba, Ben Meryem! 👋
 
-### 👨🏻‍💻 &nbsp;Hakkımda
+Python geliştirme ve veri analizi süreçlerine odaklanmış bir yazılımcıyım. Veriyi anlamlı hale getirmeyi, otomatize etmeyi ve yapay zeka ile zenginleştirmeyi seviyorum.
 
-💡 &nbsp;Yeni teknolojileri keşfetmeyi ve yazılım çözümleri ile kendimi geliştirmeyi seviyorum.\
-🌱 &nbsp;Yapay Zeka, Sistem Tasarımında daha fazla öğrenmek için çalışıyorum.\
-✍️ &nbsp;Boş zamanlarımda hobi olarak yazılım yapıyorum.\
+## 🛠️ Teknik Yetenekler
 
-### 🛠 &nbsp;Teknoloji ile aramdaki
+* **Programlama Dilleri:** Python (İleri Seviye), SQL
+* **Kütüphaneler & Frameworkler:** Pandas, NumPy, Tkinter, Matplotlib
+* **AI & Modeller:** Google Gemini API Entegrasyonu, Prompt Mühendisliği
+* **Araçlar:** Git, GitHub, VS Code
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+## 🚀 Öne Çıkan Projelerim
+
+### 🔍 [Atıf Kontrol Sistemi](https://github.com/Meryeeemmm/atifkontrol)
+Gemini 1.0 Flash kullanarak metinlerdeki atıfları ve bağlamları analiz eden akıllı bir denetim aracı. Dini metinler ile akademik atıfları ayırt edebilen özel bir mantığa sahiptir.
+
+### 🧹 [Veri Temizleyici & Yönetim Paneli](https://github.com/Meryeeemmm/verikontrol)
+Çoklu API anahtarı yönetimi (Key Rotation) ve e-posta bildirim sistemine sahip, Tkinter tabanlı profesyonel bir veri işleme arayüzü.
+
+### 🧬 [Veri Tekilleştirme Aracı](https://github.com/Meryeeemmm/veri_temizleyici)
+Fuzzy Matching (Bulanık Mantık) algoritmaları kullanarak büyük veri setlerindeki benzer ve mükerrer kayıtları tespit eden yüksek performanslı bir temizleme sistemi.
+
+## 📊 GitHub İstatistiklerim
+
+![Meryem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meryeeemmm&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meryeeemmm&layout=compact&theme=tokyonight)
+
+## 📫 Benimle İletişime Geçin
+
+* **E-posta:** [meryem21bayram@gmail.com]
+
+---
+*Bu profil üzerinde sürekli yeni projeler ve veri analizi çözümleri geliştirmeye devam ediyorum.*
