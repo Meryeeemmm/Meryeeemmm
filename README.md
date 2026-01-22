@@ -27,7 +27,7 @@ Fuzzy Matching (Bulanık Mantık) algoritmaları kullanarak büyük veri setleri
 
 ## 📫 Benimle İletişime Geçin
 
-* **E-posta:** [meryem21bayram@gmail.com]
+* **E-posta:** [meryeeemmw@gmail.com]
 
 ---
 *Bu profil üzerinde sürekli yeni projeler ve veri analizi çözümleri geliştirmeye devam ediyorum.*
