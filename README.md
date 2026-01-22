@@ -4,7 +4,7 @@ Python geliştirme ve veri analizi süreçlerine odaklanmış bir yazılımcıy�
 
 ## 🛠️ Teknik Yetenekler
 
-* **Programlama Dilleri:** Python (İleri Seviye), SQL
+* **Programlama Dilleri:** Python, SQL
 * **Kütüphaneler & Frameworkler:** Pandas, NumPy, Tkinter, Matplotlib
 * **AI & Modeller:** Google Gemini API Entegrasyonu, Prompt Mühendisliği
 * **Araçlar:** Git, GitHub, VS Code
